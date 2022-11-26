@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/damoah2/404-Not-Found-Page/main/Screenshot.png)
+![screenshot](https://raw.githubusercontent.com/damoah2/My-team-page/main/Screenshot%202022-11-26%20141032.png)
 
 
 ### Built With
