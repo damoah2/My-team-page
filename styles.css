@@ -1,0 +1,120 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    background-color: #FAFAFA;
+    max-width: 1040px;
+    padding: 30px 200px;
+    margin: 0 auto;
+}
+
+
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.title h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    letter-spacing: -0.045em;
+    color: #000;
+}
+
+.about {
+    max-width: 450px;
+    line-height: 27px;
+    font-size: 18px;
+    color: #000;
+    
+
+}
+
+.about h2{
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.team {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.team-member {
+    max-width: 264px;
+    height:460px;
+    display: flex;
+}
+
+.team-member img {
+    width: 100%;
+}
+
+.team-member p {
+    font-family: 'PT Serif', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    padding-right:10px;
+
+    /* identical to box height */
+    text-transform: uppercase;
+    color: #000000;
+    writing-mode: vertical-lr;
+
+}
+
+.team-member h3 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+#tm1, #tm3 {
+   padding-top: 50px;
+   margin: 0; 
+}
+
+#tm2 {
+    padding-top: 100px;
+    margin: 0;
+}
+
+
+
+.footer p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #BDBDBD;
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 1200px) {
+    body {
+        padding: 20px;
+    }
+}
+
+
+@media only screen and (max-width: 800px) {
+    * {
+        padding-top: 10px;
+    }
+
+    body {
+        padding: 20px;
+    }
+
+    .team-member {
+        max-width: 200px;
+    }
+}
