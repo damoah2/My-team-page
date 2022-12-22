@@ -12,11 +12,11 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/9t3iBAtk9NmqfXqGTFdf">
+    <a href="https://devchallenges.io/solutions/lWytjgyAPjlN1cUkYibY">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>
